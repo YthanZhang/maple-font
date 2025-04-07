@@ -28,7 +28,7 @@
     "ss06": "ignore",
     "ss07": "ignore",
     "ss08": "ignore",
-    "zero": "ignore"
+    "zero": "enable"
   },
   "nerd_font": {
     "enable": true,
